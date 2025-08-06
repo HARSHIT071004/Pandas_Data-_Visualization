@@ -34,6 +34,19 @@ This repository contains five end-to-end Exploratory Data Analysis (EDA) project
 - Key Visuals: Line graphs, maps, bar charts, heatmaps.
 - Outcome: Understanding terrorism patterns across decades and regions.
 
+6. Hospital Readmission Analysis
+Dataset: Patient hospital records and readmission history
+Focus: Readmission rates, patient profiles, treatment factors
+Visuals: Correlation heatmaps, bar plots, diagnosis-level stats
+Outcome: Analysis of factors leading to hospital readmissions
+
+7. Aeroplane Crash Data Analysis
+Dataset: Historical airplane crash data
+Focus: Crash causes, year-wise trends, survival rates, aircraft types
+Visuals: Time-series plots, pie charts, cause-wise breakdown
+Outcome: Identifying common factors behind aviation accidents
+
+
 ## EDA Steps Applied Across Projects
 
 - Data loading and inspection
